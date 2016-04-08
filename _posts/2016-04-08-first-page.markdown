@@ -4,7 +4,16 @@ title:  "Welcome to My Blog"
 date:   2016-04-08 13:22:09 +0000
 categories: jekyll update
 ---
-Testing a new page!
+In this course I learned how to work with the following:
+  MySQL
+  Postgres
+  Queries
+  HTML
+  Python
+  Javascript
+  GitHub
+  CSS
+  And Jkyll
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
